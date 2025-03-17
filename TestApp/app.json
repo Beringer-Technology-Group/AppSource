@@ -1,19 +1,21 @@
 {
   "id": "28aa7d71-83d6-463b-a9d0-f1a368efd1cc",
-  "name": "TestApp",
-  "publisher": "BTG",
-  "version": "1.0.0.0",
-  "brief": "A brief description of the app.",
-  "description": "A detailed description of the app.",
-  "privacyStatement": "https://example.com/privacy",
-  "EULA": "https://example.com/eula",
-  "help": "https://example.com/help",
-  "url": "https://businesscentral.dynamics.com/d1751547-1f4e-4eef-bc1a-0df179aa0df7/dev",
+  "name": "DataSyncCloud Base",
+  "publisher": "Beringer Technology Group",
+  "version": "2025.3.0.0",
+  "brief": "Demo",
+  "description": "Demo",
+  "privacyStatement": "https://www.beringer.net",
+  "contextSensitiveHelpUrl": "https://www.beringer.net",
+  "applicationInsightsConnectionString": "https://www.beringer.net",
+  "EULA": "https://www.beringer.net",
+  "help": "https://www.beringer.net",
+  "url": "https://www.beringer.net",
   "logo": "dsc.png",
   "dependencies": [],
   "screenshots": [],
   "platform": "1.0.0.0",
-  "application": "22.0.0.0",
+  "application": "25.0.0.0",
   "idRanges": [
     {
       "from": 74000000,
@@ -21,11 +23,13 @@
     }
   ],
   "features": [
+    "TranslationFile",
     "NoImplicitWith"
   ],
   "resourceExposurePolicy": {
     "allowDebugging": true,
     "allowDownloadingSource": false,
-    "includeSourceInSymbolFile": false
-  }
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "14.0"
 }
