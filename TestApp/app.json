@@ -9,7 +9,7 @@
   "EULA": "https://example.com/eula",
   "help": "https://example.com/help",
   "url": "https://businesscentral.dynamics.com/d1751547-1f4e-4eef-bc1a-0df179aa0df7/dev",
-  "logo": "https://www.beringer.net/wp-content/uploads/2021/05/image003-1-150x150.png",
+  "logo": "dsc.png",
   "dependencies": [],
   "screenshots": [],
   "platform": "1.0.0.0",
