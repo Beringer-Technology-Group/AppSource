@@ -8,7 +8,7 @@
   "privacyStatement": "",
   "EULA": "",
   "help": "",
-  "url": "",
+  "url": "https://businesscentral.dynamics.com/d1751547-1f4e-4eef-bc1a-0df179aa0df7/dev",
   "logo": "",
   "dependencies": [],
   "screenshots": [],
@@ -16,8 +16,8 @@
   "application": "22.0.0.0",
   "idRanges": [
     {
-      "from": 214748364,
-      "to": 214758364
+      "from": 100000,
+      "to": 100100
     }
   ],
   "features": [
