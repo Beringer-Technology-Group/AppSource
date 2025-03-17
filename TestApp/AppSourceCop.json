@@ -1,4 +1,5 @@
 {
-    "supportedCountries": ["US","CA"],
-    "mandatoryAffixes": ["BTG"]
+    "mandatoryAffixes": [
+        "BTG"
+    ]
 }
