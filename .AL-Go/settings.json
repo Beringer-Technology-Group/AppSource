@@ -1,8 +1,6 @@
 {
   "country": "us",
-  "appSourceCopMandatoryAffixes": [
-    "<affix>"
-  ],
+  "appSourceCopMandatoryAffixes": [],
   "appFolders": [],
   "testFolders": [],
   "bcptTestFolders": []
