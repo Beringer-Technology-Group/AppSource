@@ -9,11 +9,10 @@
   "EULA": "https://example.com/eula",
   "help": "https://example.com/help",
   "url": "https://businesscentral.dynamics.com/d1751547-1f4e-4eef-bc1a-0df179aa0df7/dev",
-  "logo": "https://example.com/logo.png",
+  "logo": "https://www.beringer.net/wp-content/uploads/2021/05/image003-1-150x150.png",
   "dependencies": [],
   "screenshots": [
-    "https://example.com/screenshot1.png",
-    "https://example.com/screenshot2.png"
+    "https://www.beringer.net/wp-content/uploads/2021/05/image003-1-150x150.png"
   ],
   "platform": "1.0.0.0",
   "application": "22.0.0.0",
