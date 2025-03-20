@@ -1,3 +1,4 @@
+[![Board Status](https://visualberinger.visualstudio.com/e0ee6ce1-0637-48dc-8a62-870176538065/9da5835e-5fd1-4549-81fb-b2d2750514d1/_apis/work/boardbadge/f9b7a76f-7e95-46d9-93d5-2c18783ec370)](https://visualberinger.visualstudio.com/e0ee6ce1-0637-48dc-8a62-870176538065/_boards/board/t/9da5835e-5fd1-4549-81fb-b2d2750514d1/Microsoft.RequirementCategory)
 # AL-Go AppSource App Template
 
 This template repository can be used for managing AppSource Apps for Business Central.
